@@ -11,5 +11,6 @@ SKILL_BREAKDANCING SKILL_APICULTURE SKILL_BASKET SKILL_XBASKET SKILL_SWORD
 "high_scores.c" -- Project implementation<br />
 "players_sample.dat" -- Example input<br />
 "players_sample_out.txt" -- Correct output for the given input.<br />
+"rand.py" -- Generates a random input file
 
 
